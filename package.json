@@ -1,6 +1,6 @@
 {
   "name": "flood",
-  "version": "4.16.2",
+  "version": "4.16.3",
   "description": "A modern Web UI for various torrent clients with multi-user and multi-client support",
   "type": "module",
   "keywords": [
@@ -119,6 +119,7 @@
     "@typescript-eslint/parser": "8.70.0",
     "@vitejs/plugin-react": "6.1.1",
     "@vitest/coverage-v8": "5.0.1",
+    "@yao-pkg/pkg": "6.23.0",
     "autoprefixer": "10.6.1",
     "axios": "1.20.0",
     "axios-mock-adapter": "2.1.0",
@@ -161,7 +162,7 @@
     "morgan": "1.12.1",
     "overlayscrollbars": "2.16.0",
     "overlayscrollbars-react": "0.5.6",
-    "p-queue": "9.3.3",
+    "p-queue": "10.0.0",
     "parse-torrent": "11.0.24",
     "passport": "0.7.0",
     "passport-jwt": "4.0.1",
@@ -191,6 +192,7 @@
     "typed-emitter": "2.1.0",
     "typescript": "npm:@typescript/typescript6@6.0.2",
     "typescript-eslint": "8.70.0",
+    "unzipper": "0.12.5",
     "vite": "8.3.0",
     "vite-node": "6.0.0",
     "vitest": "5.0.1",
